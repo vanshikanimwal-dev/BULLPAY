@@ -1,0 +1,12 @@
+{
+  "name": "@bullpay/core",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "dependencies": {
+    "@bullpay/common": "0.1.0",
+    "@bullpay/db": "0.1.0"
+  }
+}

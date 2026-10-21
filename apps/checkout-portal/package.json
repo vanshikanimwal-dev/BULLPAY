@@ -1,0 +1,10 @@
+{
+  "name": "@bullpay/checkout-portal",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "@bullpay/common": "0.1.0",
+    "@bullpay/merchant-sdk": "0.1.0"
+  }
+}

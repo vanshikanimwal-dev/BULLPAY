@@ -1,0 +1,10 @@
+{
+  "name": "@bullpay/control-center",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "@bullpay/common": "0.1.0",
+    "@bullpay/db": "0.1.0"
+  }
+}
